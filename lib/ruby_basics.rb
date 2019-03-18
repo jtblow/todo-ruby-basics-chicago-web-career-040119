@@ -23,5 +23,5 @@ return "expert"
 end
 
 def pizza_party(choice = "cheese")
-
+puts choice
 end
